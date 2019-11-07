@@ -2,15 +2,23 @@
 
 A new Flutter project.
 
-## Getting Started
+# Simbacart android and ios UI
 
-This project is a starting point for a Flutter application.
+<a href=''><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="50px"/></a>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+# Screenshots
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<img src='s/1.jpg' height="400px"/>
+<img src='s/2.jpg' height="400px"/>
+<img src='s/3.jpg' height="400px"/>
+<img src='s/4.jpg' height="400px"/>
+<img src='s/5.jpg' height="400px"/>
+<img src='s/6.jpg' height="400px"/>
+<img src='s/7.jpg' height="400px"/>
+
+## Download Sample app
+<a href=''><img alt='Get it on Google Play' src='s/p.png' height="50px"/></a>
+<a href=''><img alt='Get it on Google Play' src='s/p.png' height="50px"/></a>
+
+
