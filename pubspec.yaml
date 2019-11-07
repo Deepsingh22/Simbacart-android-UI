@@ -1,0 +1,128 @@
+name: Simbacart
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  random_pk: any
+  shimmer: ^0.0.6
+  transparent_image: ^0.1.0
+  flutter_slidable: ^0.4.9
+  flutter_rating: ^0.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  fonts:
+    - family: Sans
+      fonts:
+        - asset: assets/font/OpenSans-Bold.ttf
+          weight: 800
+        - asset: assets/font/OpenSans-Semibold.ttf
+          weight: 600
+        - asset: assets/font/OpenSans-Regular.ttf
+          weight: 400
+        - asset: assets/font/OpenSans-Light.ttf
+          weight: 200
+    - family : Popins
+      fonts:
+        - asset: assets/font/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/font/Poppins-SemiBold.ttf
+          weight : 600
+    - family : Berlin
+      fonts:
+        - asset: assets/font/BRLNSDB.TTF
+          weight: 700
+    - family : Gotik
+      fonts:
+        - asset: assets/font/GOTHIC.TTF
+          weight: 400
+        - asset: assets/font/GOTHICB.TTF
+          weight : 600
+
+  assets:
+    - assets/img/man.jpg
+    - assets/img/google.png
+    - assets/icon/shoe1.png
+    - assets/icon/shoe.png
+    - assets/img/googlewallet.png
+    - assets/img/credit.png
+    - assets/img/handshake.png
+    - assets/img/paypal.png
+    - assets/img/razo.jpg
+    - assets/img/icon_facebook.png
+    - assets/img/Logo.png
+    - assets/img/girl.png
+    - assets/img/man.png
+    - assets/img/search.png
+    - assets/img/search2.png
+    - assets/img/chat.png
+    - assets/img/notifications-button.png
+    - assets/img/baner1.png
+    - assets/img/baner2.png
+    - assets/img/baner3.png
+    - assets/icon/fashion.png
+    - assets/icon/ticket.png
+    - assets/imgPromo/Discount2.png
+    - assets/imgPromo/Discount4.png
+    - assets/img/flashsaleicon.png
+    - assets/imgItem/category1.png
+    - assets/imgItem/category2.png
+    - assets/imgItem/shoes1.jpg
+    - assets/img/notmessage.png
+    - assets/img/noNotification.png
+    - assets/icon/truck.png
+    - assets/icon/chat.png
+    - assets/icon/notification.png
+    - assets/icon/callcenter.png
+    - assets/icon/setting.png
+    - assets/icon/aboutapp.png
+    - assets/icon/shopping-cart.png
+    - assets/icon/message.png
+    - assets/img/bag.png
+    - assets/img/courier.png
+    - assets/img/house.png
+    - assets/img/icon_facebook.png
+    - assets/img/order.png
+    - assets/img/payment.png
+    - assets/icon/girlcallcenter.png
+    - assets/img/checklist.png
+    - assets/icon/creditAcount.png
+    - assets/img/creditCardVisa.png
+    - assets/imgBrand/2.jpg
+    - assets/imgBrand/3.jpg
+    - assets/img/flashsalebanner.png
+    - assets/icon/flashSaleIcon.png
+    - assets/img/headerProfile.png
+    - assets/imgBrand/scuiaban.png
+    - assets/imgBrand/25.jpg
+    - assets/imgIllustration/IlustrasiMessage.png
+    - assets/imgIllustration/IlustrasiOnBoarding1.png
+    - assets/imgIllustration/IlustrasiOnBoarding2.png
+    - assets/imgIllustration/IlustrasiOnBoarding3.png
+    - assets/avatars/avatar-1.jpg
+    - assets/imgIllustration/IlustrasiCart.png
